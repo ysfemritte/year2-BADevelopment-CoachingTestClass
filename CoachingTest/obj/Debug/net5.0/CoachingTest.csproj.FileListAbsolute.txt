@@ -1,0 +1,16 @@
+C:\Users\Yusuf\OneDrive\BADev\Week2\CoachingTest\bin\Debug\net5.0\CoachingTest.exe
+C:\Users\Yusuf\OneDrive\BADev\Week2\CoachingTest\bin\Debug\net5.0\CoachingTest.deps.json
+C:\Users\Yusuf\OneDrive\BADev\Week2\CoachingTest\bin\Debug\net5.0\CoachingTest.runtimeconfig.json
+C:\Users\Yusuf\OneDrive\BADev\Week2\CoachingTest\bin\Debug\net5.0\CoachingTest.runtimeconfig.dev.json
+C:\Users\Yusuf\OneDrive\BADev\Week2\CoachingTest\bin\Debug\net5.0\CoachingTest.dll
+C:\Users\Yusuf\OneDrive\BADev\Week2\CoachingTest\bin\Debug\net5.0\ref\CoachingTest.dll
+C:\Users\Yusuf\OneDrive\BADev\Week2\CoachingTest\bin\Debug\net5.0\CoachingTest.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week2\CoachingTest\obj\Debug\net5.0\CoachingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\OneDrive\BADev\Week2\CoachingTest\obj\Debug\net5.0\CoachingTest.AssemblyInfoInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week2\CoachingTest\obj\Debug\net5.0\CoachingTest.AssemblyInfo.cs
+C:\Users\Yusuf\OneDrive\BADev\Week2\CoachingTest\obj\Debug\net5.0\CoachingTest.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week2\CoachingTest\obj\Debug\net5.0\CoachingTest.dll
+C:\Users\Yusuf\OneDrive\BADev\Week2\CoachingTest\obj\Debug\net5.0\ref\CoachingTest.dll
+C:\Users\Yusuf\OneDrive\BADev\Week2\CoachingTest\obj\Debug\net5.0\CoachingTest.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week2\CoachingTest\obj\Debug\net5.0\CoachingTest.genruntimeconfig.cache
+C:\Users\Yusuf\OneDrive\BADev\Week2\CoachingTest\obj\Debug\net5.0\CoachingTest.csproj.AssemblyReference.cache
